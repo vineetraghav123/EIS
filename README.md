@@ -4,4 +4,4 @@
 
 ## Installation:  
  - Import database file->eis.php, contains table structure and dummy data.
- - Setup database connection file.
+ - Setup database connnection in db.php file.
